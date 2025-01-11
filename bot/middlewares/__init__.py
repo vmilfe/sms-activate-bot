@@ -1,0 +1,1 @@
+from bot.middlewares.db_middleware import UserDatabaseMiddleware

@@ -1,0 +1,2 @@
+from bot.filters.generator_filter import TextGeneratorFilter
+from bot.filters.admin_filter import AdminFilter

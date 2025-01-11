@@ -1,0 +1,8 @@
+aiogram==3.17.0
+httpx==0.28.1
+peewee==3.17.7
+pydantic==2.10.4
+python-dotenv==1.0.1
+PyYAML==6.0.2
+PyYAML==6.0.2
+structlog==24.4.0
